@@ -8,5 +8,5 @@ A Django auction system.
 
 Contributing
 ------------
-forked from `django_auction https://pypi.python.org/pypi/django-auction`_
+forked from `django_auction <https://pypi.python.org/pypi/django-auction>`_
 Pick an `issue <https://github.com/littlepea/django-auction/issues>`_ and `fork <https://github.com/littlepea/django-auction/fork>`_ at will ;)
