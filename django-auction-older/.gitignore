@@ -1,0 +1,11 @@
+.idea/
+build/
+dist/
+*.egg-info/
+*/EGG-INFO/*
+*.egg/*
+coverage/
+*.log
+*.pot
+*.pyc
+local_settings.py
